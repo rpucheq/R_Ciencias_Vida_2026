@@ -31,7 +31,7 @@ Se puede agregar aquí una guía breve de estudio con los conceptos más relevan
 
 ## Tareas
 
-- [Tarea 1](./Tareas/Tarea1_RCsVida.pdf)
+- [Tarea 1](./Tareas/Tarea1_RCsVida.pdf) - Fecha limite de entrega: Miercoles 1 de Junio de 2026
 - Tarea 2: pendiente
 - Tarea 3: pendiente
 - Tarea 4 y 5: pendiente
