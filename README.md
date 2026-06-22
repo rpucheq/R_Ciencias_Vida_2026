@@ -14,7 +14,7 @@ Repositorio del curso de R para Ciencias de la Vida, INM-211, del Postgrado de I
 
 La información detallada del contenido programático está disponible en el siguiente archivo:
 
-- [Cronograma 2026 R Cs vida.pdf](./Cronograma_2026_R_Cs_vida.pdf)
+- [Cronograma 2026 R Cs vida.pdf](./Programa/Cronograma_2026_R_Cs_vida.pdf)
 
 ## Guía
 
