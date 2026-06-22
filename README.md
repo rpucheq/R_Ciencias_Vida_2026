@@ -20,6 +20,22 @@ La información detallada del contenido programático está disponible en el sig
 
 Se puede agregar aquí una guía breve de estudio con los conceptos más relevantes vistos en clase.
 
+## Presentaciones
+
+- Clase 1: [PDF](./Presentaciones/Clase01/RCsVida_01_2026.pdf)
+- Clase 2: pendiente
+- Clase 3: pendiente
+- Clase 4: pendiente
+- Clase 5: pendiente
+- Clase 6: pendiente
+
+## Tareas
+
+- [Tarea 1](./Tareas/Tarea1_RCsVida.pdf)
+- Tarea 2: pendiente
+- Tarea 3: pendiente
+- Tarea 4 y 5: pendiente
+
 ## Estructura
 
 - Presentaciones/
